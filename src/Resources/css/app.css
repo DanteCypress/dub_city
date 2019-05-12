@@ -16,6 +16,9 @@ a {
 .bck_blue {
   background: #fdb927;
 }
+.bck_blue1 {
+  background: #26282a;
+}
 
 .bck_lblue {
   background: #98c5e9;
@@ -199,7 +202,7 @@ footer .footer_discl {
 }
 .featured_first {
   position: absolute;
-  background: #0e1731;
+  background: #26282a;
   color: #ffffff;
   font-size: 92px;
   text-transform: uppercase;
@@ -208,7 +211,7 @@ footer .footer_discl {
 
 .featured_second {
   position: absolute;
-  background: #0e1731;
+  background: #26282a;
   color: #ffffff;
   font-size: 92px;
   text-transform: uppercase;
@@ -220,7 +223,7 @@ footer .footer_discl {
 ===============================*/
 
 .home_matches_wrapper {
-  background: #98c5e9;
+  background: #006bb6;
   margin-top: 9px;
   padding: 50px 0px;
 }
