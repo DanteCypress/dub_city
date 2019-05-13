@@ -288,12 +288,12 @@ footer .footer_discl {
 
 .match_block .match_wrapper .match_top .right,
 .match_block .match_wrapper .match_bottom .right {
-  background: #0e1731;
+  background: #26282a;
   width: 70px;
   color: #ffffff;
-  font-size: 50px;
+  font-size: 35px;
   text-align: center;
-  padding-top: 6px;
+  padding-top: 16px;
 }
 
 .match_box_big {
