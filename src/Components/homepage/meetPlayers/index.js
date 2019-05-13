@@ -33,7 +33,7 @@ export default class MeetPlayers extends Component {
               <div className="home_text_wrapper">
                 <div>
                   <Tag
-                    bck="#26282A"
+                    bck="#006BB6"
                     size="100px"
                     color="#fff"
                     add={{
@@ -46,7 +46,7 @@ export default class MeetPlayers extends Component {
                 </div>
                 <div>
                   <Tag
-                    bck="#26282A"
+                    bck="#006BB6"
                     size="100px"
                     color="#fff"
                     add={{
@@ -59,7 +59,7 @@ export default class MeetPlayers extends Component {
                 </div>
                 <div>
                   <Tag
-                    bck="#26282A"
+                    bck="#006BB6"
                     size="100px"
                     color="#fff"
                     add={{
