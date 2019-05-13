@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { easePolyOut } from "d3-ease";
 import Animate from "react-move/Animate";
+import curry from "../../../Resources/images/player/curry.png";
 export class Stripes extends Component {
   state = {
     stripes: [
