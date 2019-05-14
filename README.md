@@ -1,10 +1,9 @@
 # Dub City
-
-Web application that expands my knowledge of ReactJS, as well as gaining new knowledge of FireBase (auth, database, and storage). The Web application allows users to view Golden State Warriors' most recent games at a glance, and also see their games for the current season. Users also have the ability to see current roster. 
+The Web application allows users to view Golden State Warriors' most recent games at a glance, and also see their games for the current season using Firebase DB. Users have an Admin dashboard to add games and players to DB.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
