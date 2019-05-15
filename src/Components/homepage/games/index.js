@@ -23,7 +23,7 @@ const GamesHome = () => {
           link={true}
           linkto="/the_team"
         >
-          See more games now!
+          See more games
         </Tag>
       </div>
     </div>
