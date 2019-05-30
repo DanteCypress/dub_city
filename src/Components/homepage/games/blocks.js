@@ -14,6 +14,7 @@ export default class Blocks extends Component {
       .once("value")
       .then(snapshot => {
         const matches = firebaseLooper(snapshot);
+        console.log(matches);
         this.setState({
           matches: reverseArray(matches)
         });
@@ -32,7 +33,6 @@ export default class Blocks extends Component {
         ))
       : null;
   render() {
-    console.log(this.state);
     return (
       <div className="home_matches">{this.showMatches(this.state.matches)}</div>
     );
