@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.875460fa.chunk.css",
-    "main.js": "/static/js/main.c6577017.chunk.js",
-    "main.js.map": "/static/js/main.c6577017.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.19bb8721.chunk.js": "/static/js/2.19bb8721.chunk.js",
-    "static/js/2.19bb8721.chunk.js.map": "/static/js/2.19bb8721.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e37997b0ddcb1d5fca53a6dc7a92dcea.js": "/precache-manifest.e37997b0ddcb1d5fca53a6dc7a92dcea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.875460fa.chunk.css.map": "/static/css/main.875460fa.chunk.css.map",
-    "static/media/GSW.png": "/static/media/GSW.643bdb48.png",
-    "static/media/GSWB.png": "/static/media/GSWB.3756195b.png",
-    "static/media/KD.png": "/static/media/KD.4bdb7144.png",
-    "static/media/curry.png": "/static/media/curry.8f7c0b7f.png",
-    "static/media/jersey.png": "/static/media/jersey.f5caa6bf.png"
+    "main.css": "/dub_city/static/css/main.875460fa.chunk.css",
+    "main.js": "/dub_city/static/js/main.c6577017.chunk.js",
+    "main.js.map": "/dub_city/static/js/main.c6577017.chunk.js.map",
+    "runtime~main.js": "/dub_city/static/js/runtime~main.7eb192ca.js",
+    "runtime~main.js.map": "/dub_city/static/js/runtime~main.7eb192ca.js.map",
+    "static/js/2.16fd6a2b.chunk.js": "/dub_city/static/js/2.16fd6a2b.chunk.js",
+    "static/js/2.16fd6a2b.chunk.js.map": "/dub_city/static/js/2.16fd6a2b.chunk.js.map",
+    "index.html": "/dub_city/index.html",
+    "precache-manifest.a57e27b2939a684f0466c182eb0754fd.js": "/dub_city/precache-manifest.a57e27b2939a684f0466c182eb0754fd.js",
+    "service-worker.js": "/dub_city/service-worker.js",
+    "static/css/main.875460fa.chunk.css.map": "/dub_city/static/css/main.875460fa.chunk.css.map",
+    "static/media/GSW.png": "/dub_city/static/media/GSW.643bdb48.png",
+    "static/media/GSWB.png": "/dub_city/static/media/GSWB.3756195b.png",
+    "static/media/KD.png": "/dub_city/static/media/KD.4bdb7144.png",
+    "static/media/curry.png": "/dub_city/static/media/curry.8f7c0b7f.png",
+    "static/media/jersey.png": "/dub_city/static/media/jersey.f5caa6bf.png"
   }
 }
