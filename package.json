@@ -2,6 +2,7 @@
   "name": "dub_city",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dantecypress.github.io/dub_city/",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "d3-ease": "^1.0.5",
